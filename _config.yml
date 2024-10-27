@@ -1,11 +1,14 @@
 title: Aritri Priya Saha # your name (or website title) here
 logo: "/images/IMG_logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am currently a 2nd year Graduate Student at Auburn University where I am primarily researching methods to secure hardware and the 
+  semiconductor supply chain through blockchain and decentralized mechanisms. I am interested to work with designing systems that would
+  enhance security and would empower users with the ability to protect their data. Some of my areas of interest span from Blockchains, 
+  decentralized systems, network security and Defi. I would love to chat more on these topics if our interests align.
+
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aritripriyasaha/">Connect with me on LinkedIn</a> 
+  
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: false
 plugins:
