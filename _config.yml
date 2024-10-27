@@ -1,5 +1,5 @@
 title: Aritri Priya Saha # your name (or website title) here
-logo: "/images/IMG_logo.jpg" # your photo (or logo) here
+logo: /images/IMG_logo.jpg # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am currently a 2nd year Graduate Student at Auburn University where I am primarily researching methods to secure hardware and the 
   semiconductor supply chain through blockchain and decentralized mechanisms. I am interested to work with designing systems that would
