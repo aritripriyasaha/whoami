@@ -14,6 +14,11 @@ In between my undergraduate and graduate studies, I worked as a Junior Software 
 1. Aritri Priya Saha and Ujjwal Guin. "Optimizing Supply Chain Management using Permissioned Blockchains."
 (Invited Paper) In Proceedings of 2024 ACM/IEEE International Conference on Computer-Aided Design.
 
+# Personal Projects
+
+1. Developed a partial collision attack on against a cryptographic hash function(SHA-256).
+2. Trying to implement a blockchain protocol from scratch (In progress). 
+
 
 
 
